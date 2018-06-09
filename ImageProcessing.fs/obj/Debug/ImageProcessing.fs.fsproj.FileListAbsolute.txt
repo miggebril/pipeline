@@ -1,0 +1,10 @@
+C:\Users\mgebr\Documents\pipeline\ImageProcessing.fs\bin\Debug\GinevraBenci.jpg
+C:\Users\mgebr\Documents\pipeline\ImageProcessing.fs\bin\Debug\LadyErmine.jpg
+C:\Users\mgebr\Documents\pipeline\ImageProcessing.fs\bin\Debug\MonaLisa.jpg
+C:\Users\mgebr\Documents\pipeline\ImageProcessing.fs\bin\Debug\App.config
+C:\Users\mgebr\Documents\pipeline\ImageProcessing.fs\bin\Debug\ImageProcessing.exe.config
+C:\Users\mgebr\Documents\pipeline\ImageProcessing.fs\bin\Debug\_3DImageEffect.FSharp.XML
+C:\Users\mgebr\Documents\pipeline\ImageProcessing.fs\bin\Debug\ImageProcessing.exe
+C:\Users\mgebr\Documents\pipeline\ImageProcessing.fs\bin\Debug\ImageProcessing.pdb
+C:\Users\mgebr\Documents\pipeline\ImageProcessing.fs\obj\Debug\ImageProcessing.exe
+C:\Users\mgebr\Documents\pipeline\ImageProcessing.fs\obj\Debug\ImageProcessing.pdb

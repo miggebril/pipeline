@@ -1,0 +1,21 @@
+C:\Users\mgebr\Downloads\fConcBook-master\fConcBook-master - Copy\Chapter.07\Pipeline.fs\obj\Debug\Pipeline.fs.fsprojResolveAssemblyReference.cache
+C:\Users\mgebr\Downloads\fConcBook-master\fConcBook-master - Copy\Chapter.07\Pipeline.fs\bin\Debug\FsPipeline.XML
+C:\Users\mgebr\Downloads\fConcBook-master\fConcBook-master - Copy\Chapter.07\Pipeline.fs\bin\Debug\FsPipeline.fs.dll
+C:\Users\mgebr\Downloads\fConcBook-master\fConcBook-master - Copy\Chapter.07\Pipeline.fs\bin\Debug\FsPipeline.fs.pdb
+C:\Users\mgebr\Downloads\fConcBook-master\fConcBook-master - Copy\Chapter.07\Pipeline.fs\bin\Debug\FSharp.Core.dll
+C:\Users\mgebr\Downloads\fConcBook-master\fConcBook-master - Copy\Chapter.07\Pipeline.fs\bin\Debug\Functional.dll
+C:\Users\mgebr\Downloads\fConcBook-master\fConcBook-master - Copy\Chapter.07\Pipeline.fs\bin\Debug\Functional.pdb
+C:\Users\mgebr\Downloads\fConcBook-master\fConcBook-master - Copy\Chapter.07\Pipeline.fs\bin\Debug\Functional.dll.config
+C:\Users\mgebr\Downloads\fConcBook-master\fConcBook-master - Copy\Chapter.07\Pipeline.fs\obj\Debug\Pipeline.fs.fsproj.CopyComplete
+C:\Users\mgebr\Downloads\fConcBook-master\fConcBook-master - Copy\Chapter.07\Pipeline.fs\obj\Debug\FsPipeline.fs.dll
+C:\Users\mgebr\Downloads\fConcBook-master\fConcBook-master - Copy\Chapter.07\Pipeline.fs\obj\Debug\FsPipeline.fs.pdb
+C:\Users\mgebr\Documents\pipeline\Pipeline.fs\bin\Debug\FsPipeline.XML
+C:\Users\mgebr\Documents\pipeline\Pipeline.fs\bin\Debug\FsPipeline.fs.dll
+C:\Users\mgebr\Documents\pipeline\Pipeline.fs\bin\Debug\FsPipeline.fs.pdb
+C:\Users\mgebr\Documents\pipeline\Pipeline.fs\bin\Debug\FSharp.Core.dll
+C:\Users\mgebr\Documents\pipeline\Pipeline.fs\bin\Debug\Functional.dll
+C:\Users\mgebr\Documents\pipeline\Pipeline.fs\bin\Debug\Functional.pdb
+C:\Users\mgebr\Documents\pipeline\Pipeline.fs\bin\Debug\Functional.dll.config
+C:\Users\mgebr\Documents\pipeline\Pipeline.fs\obj\Debug\Pipeline.fs.fsproj.CopyComplete
+C:\Users\mgebr\Documents\pipeline\Pipeline.fs\obj\Debug\FsPipeline.fs.dll
+C:\Users\mgebr\Documents\pipeline\Pipeline.fs\obj\Debug\FsPipeline.fs.pdb
